@@ -4,7 +4,7 @@
 /home/username/.config/i3
 ## polybar
 /home/username/.config/polybar
-## raner
+## ranger
 /home/username/.config/ranger
 ## .vimrc  .zshrc
 /home/username
